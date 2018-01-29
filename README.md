@@ -1,2 +1,2 @@
 # NoWasteFood
-a project about anti-waste food
+a project about waste food
