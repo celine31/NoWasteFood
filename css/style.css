@@ -1,4 +1,26 @@
 .custom-select{
     width: auto;
 }
+#container{
+    margin-top:50px;
+    display: flex;
+ }
+.titre{
+    margin-top: 100px;
+    color: green;
+    text-align: center;
+}
 
+.presentation, .presentation2{
+    margin-top:100px;
+    margin-bottom:200px;
+    max-width: 600px;
+    text-align:center;
+    
+   }
+.presentation{
+     transform: rotate(-30deg);
+}
+.presentation2{
+    transform:rotate(30deg);
+}
